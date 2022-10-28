@@ -19,3 +19,10 @@ a {
   height: 200px;
   background-color: #54c226;
 }
+i {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-color: #9834c3;
+  font-style: normal;
+}
